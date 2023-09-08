@@ -1,0 +1,2 @@
+# KNIME_CNN_For_ReadModel_Predict_FashionMNIST_V1
+KNIME_CNN_For_ReadModel_Predict_FashionMNIST_V1
